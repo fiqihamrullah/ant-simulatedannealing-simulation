@@ -13,7 +13,7 @@ Feel Free to use for learning purpose.
 Clone the project
 
 ```bash
-  git clone https://github.com/fiqihamrullah/projectile-motion-simulation.git
+  git clone https://github.com/fiqihamrullah/ant-simulatedannealing-simulation.git
 ```
 
 Go to the project directory, run file solusion (*.sln) then build and run 
